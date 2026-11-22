@@ -37,15 +37,15 @@
 
 ---
 
-### 📊 GitHub Stats & Streak (Bright Edition)
+### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&theme=buefy&bg_color=ffffff&title_color=0083B0&icon_color=00B4DB&text_color=24292f&border_color=d0d7de" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&theme=buefy&bg_color=ffffff&title_color=0083B0&text_color=24292f&border_color=d0d7de" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisher-devtech&background=FFFFFF&border=D0D7DE&stroke=00B4DB&ring=0083B0&fire=FF6B6B&currStreakNum=0083B0&sideNums=24292F&currStreakLabel=0083B0&sideLabels=57606A&dates=57606A" />
+  <img width="98.5%" src="https://streak-stats.demolab.com?user=alisher-devtech&background=F0F7FF&border=BAE6FD&stroke=0284C7&ring=0369A1&fire=FF6B6B&currStreakNum=0369A1&sideNums=1E293B&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
 </p>
 
 ---
@@ -63,10 +63,10 @@
   <a href="https://github.com/alisher-devtech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0083B0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-sher-694aa53a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:alisher89924@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
