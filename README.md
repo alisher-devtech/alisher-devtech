@@ -1,14 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00B4DB&height=210&section=header&text=Ali%20Sher&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20at%20UET%20Lahore&descAlignY=58&descSize=20" width="100%" alt="Ali Sher"/>
-
-<a href="https://github.com/alisher-devtech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=0284C7&center=true&vCenter=true&width=700&height=40&lines=Building+full-stack+apps+with+ASP.NET+Core+%26+Next.js;Solving+problems+with+Data+Structures+%26+Algorithms;Shipping+real+products%2C+not+just+tutorials" alt="Typing animation"/>
-</a>
+<img src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/main/assets/banner.svg" width="100%" alt="Ali Sher - Full-Stack Developer"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=alisher-devtech&label=Profile%20Views&color=00B4DB&labelColor=0F2027&style=flat-square" alt="views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=alisher-devtech%2Falisher-devtech&label=Profile%20Views&labelColor=%230F2027&countColor=%2300B4DB&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/github/followers/alisher-devtech?label=Followers&color=00B4DB&labelColor=0F2027&style=flat-square&logo=github" alt="followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-00B4DB?labelColor=0F2027&style=flat-square" alt="open to"/>
   <img src="https://img.shields.io/badge/Based%20in-Pakistan-00B4DB?labelColor=0F2027&style=flat-square" alt="Pakistan"/>
@@ -77,14 +73,15 @@
 
 ## 📊 GitHub Analytics
 
+<!-- All three cards are sized to the same 419 x 165 box -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&include_all_commits=true&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD&hide_rank=true&line_height=24" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD&card_width=300" />
+<img width="419" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&hide_rank=true&line_height=20&card_width=419&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD" />
+<img width="419" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&card_width=419&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD" />
 
 <br/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=alisher-devtech&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&stroke=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
+<img width="419" src="https://streak-stats.demolab.com?user=alisher-devtech&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
 
 </div>
 
@@ -109,5 +106,3 @@
 <sub>Ask me about: ASP.NET Core · Next.js · DSA · Database design</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00B4DB&height=100&section=footer" width="100%"/>
