@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=alisher-devtech&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
+  <img width="98.4%" src="https://streak-stats.demolab.com?user=alisher-devtech&card_width=860&card_height=170&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
 </p>
 
 <p align="center">
