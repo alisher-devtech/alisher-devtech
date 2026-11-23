@@ -23,32 +23,28 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td><b>Languages</b></td>
-    <td><img height="34" src="https://skillicons.dev/icons?i=cs,cpp,py,ts,js" /></td>
+    <td width="20%"><b>Languages</b></td>
+    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=cs,cpp,py,ts,js" /></td>
   </tr>
   <tr>
-    <td><b>Frameworks</b></td>
-    <td><img height="34" src="https://skillicons.dev/icons?i=dotnet,nextjs,react,tailwind,electron" /></td>
+    <td width="20%"><b>Frameworks</b></td>
+    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=dotnet,nextjs,react,tailwind,electron" /></td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td><img height="34" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
+    <td width="20%"><b>Databases</b></td>
+    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
-    <td><img height="34" src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,figma" /></td>
+    <td width="20%"><b>Tools</b></td>
+    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,figma" /></td>
   </tr>
 </table>
 
-</div>
-
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <b>💊 PharmaCare Pro</b><br/>
@@ -73,27 +69,19 @@
 
 ## 📊 GitHub Analytics
 
-<!-- All three cards are sized to the same 419 x 165 box -->
-<div align="center">
+<!-- Both cards use the same 420x165 size and each fills half the page width, matching the project columns above -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&hide_rank=true&count_private=true&line_height=20&card_width=420&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&card_width=420&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD" />
+</p>
 
-<img width="419" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&hide_rank=true&line_height=20&card_width=419&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD" />
-<img width="419" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&card_width=419&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD" />
-
-<br/>
-
-<img width="419" src="https://streak-stats.demolab.com?user=alisher-devtech&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
-
-</div>
-
-<div align="center">
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/output/github-snake.svg" />
 </picture>
-
-</div>
+</p>
 
 ## 🌐 Let's Connect
 
