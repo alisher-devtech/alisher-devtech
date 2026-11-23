@@ -25,27 +25,52 @@
 
 > *A clean data structure beats 500 lines of spaghetti code.*
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack & Core Tools
 
 <table width="100%">
   <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=cs,cpp,py,ts,js" /></td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Backend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & Desktop</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-0284C7?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+      </p>
+    </td>
   </tr>
   <tr>
-    <td width="20%"><b>Frameworks</b></td>
-    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=dotnet,nextjs,react,tailwind,electron" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Databases</b></td>
-    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><b>Tools</b></td>
-    <td width="80%"><img height="34" src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,figma" /></td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ DevOps & Design Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-0369A1?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
-
 ## 🚀 Featured Projects
 
 <!-- Same 420x165 card size as the analytics cards below -->
