@@ -105,4 +105,8 @@
 
 <sub>Ask me about: ASP.NET Core · Next.js · DSA · Database design</sub>
 
+<br/><br/>
+
+**"First, solve the problem. Then, write the code."** — *John Johnson*
+
 </div>
