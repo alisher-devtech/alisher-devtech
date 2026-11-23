@@ -3,6 +3,10 @@
 
 <img src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/main/assets/banner.svg" width="100%" alt="Ali Sher - Full-Stack Developer"/>
 
+<a href="https://github.com/alisher-devtech">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=0284C7&center=true&vCenter=true&width=700&height=40&lines=Building+full-stack+apps+with+ASP.NET+Core+%26+Next.js;Turning+complex+backend+logic+into+clean+software;Solving+problems+with+Data+Structures+%26+Algorithms;Shipping+real+products%2C+not+just+tutorials" alt="Typing animation"/>
+</a>
+
 <p>
   <img src="https://api.visitorbadge.io/api/visitors?path=alisher-devtech%2Falisher-devtech&label=Profile%20Views&labelColor=%230F2027&countColor=%2300B4DB&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/github/followers/alisher-devtech?label=Followers&color=00B4DB&labelColor=0F2027&style=flat-square&logo=github" alt="followers"/>
@@ -44,28 +48,11 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>💊 PharmaCare Pro</b><br/>
-      Pharmacy POS &amp; inventory system with smart unit and packaging handling.<br/><br/>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/alisher-devtech?tab=repositories">View on GitHub →</a>
-    </td>
-    <td width="50%" valign="top">
-      <b>📚 Grind Engine</b><br/>
-      Study tracker with grind hours, class schedule and learning curve.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/alisher-devtech?tab=repositories">View on GitHub →</a>
-    </td>
-  </tr>
-</table>
+<!-- Same 420x165 card size as the analytics cards below -->
+<p align="center">
+  <a href="https://github.com/alisher-devtech?tab=repositories"><img width="49%" src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/main/assets/project-pharmacare.svg" alt="PharmaCare Pro" /></a>
+  <a href="https://github.com/alisher-devtech?tab=repositories"><img width="49%" src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/main/assets/project-grind-engine.svg" alt="Grind Engine" /></a>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -73,6 +60,10 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alisher-devtech&show_icons=true&hide_rank=true&count_private=true&line_height=20&card_width=420&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&icon_color=0284C7&text_color=1E293B&border_color=BAE6FD" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher-devtech&layout=compact&card_width=420&hide_border=false&border_radius=10&bg_color=F0F7FF&title_color=0369A1&text_color=1E293B&border_color=BAE6FD" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=alisher-devtech&hide_border=false&border_radius=10&background=F0F7FF&border=BAE6FD&ring=0284C7&fire=FF6B6B&currStreakNum=0369A1&sideNums=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=475569" />
 </p>
 
 <p align="center">
