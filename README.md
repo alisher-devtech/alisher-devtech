@@ -16,7 +16,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻  About Me
 
 - 🎓 BS Computer Science student at **UET Lahore**
 - ⚙️ Building with **ASP.NET Core**, **Next.js**, **C#** and **Python**
@@ -79,7 +79,7 @@
   <a href="https://github.com/alisher-devtech?tab=repositories"><img width="49%" src="https://raw.githubusercontent.com/alisher-devtech/alisher-devtech/main/assets/project-grind-engine.svg" alt="Grind Engine" /></a>
 </p>
 
-## 📊 GitHub Analytics
+## 📊   GitHub Analytics
 
 <!-- Both cards use the same 420x165 size and each fills half the page width, matching the project columns above -->
 <p align="center">
